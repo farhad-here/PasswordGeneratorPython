@@ -12,3 +12,5 @@
 ## 👨‍💻Used Technologies
 - tkinter
 - python
+- subprocess
+- random
